@@ -64,5 +64,3 @@
 *Can I join?* 🥺
 
 ---
-
-![Profile Views](https://komarev.com/ghpvc/?username=y0unglewis&color=ff69b4&style=flat)
