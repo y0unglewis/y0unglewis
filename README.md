@@ -61,10 +61,8 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y0unglewis&layout=compact&theme=dark&hide_border=true&show_icons=true" alt="Top Langs" />
-</p>
+*Can I join?* 🥺
 
 ---
-*Can I join?* 🥺
+
+![Profile Views](https://komarev.com/ghpvc/?username=y0unglewis&color=ff69b4&style=flat)
