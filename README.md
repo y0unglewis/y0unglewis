@@ -63,7 +63,7 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y0unglewis&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y0unglewis&layout=compact&theme=dark&hide_border=true&show_icons=true" alt="Top Langs" />
 </p>
 
 ---
